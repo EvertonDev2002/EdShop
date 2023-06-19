@@ -1,7 +1,7 @@
 """
 Disciplina: Fundamentos de Programação
 Nome: Éverton da Cunha Sousa
-Matrícula: 537858  
+  
 """
 
 from module.functionality import CadastrarCliente, GerarRelatorioDosClientes, MostrarClientesCadastrados, MostrarDadosDoCliente
